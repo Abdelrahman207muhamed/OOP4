@@ -1,5 +1,4 @@
 ﻿
-
 namespace OOP04
 {
     #region Revision
